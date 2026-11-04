@@ -1,0 +1,5 @@
+fastapi
+httpx
+pytest<9
+qdrant-client
+redis

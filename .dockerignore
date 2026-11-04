@@ -1,0 +1,11 @@
+.venv/
+.git/
+.github/
+tests/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.ipynb
+data/redis/
+data/qdrant/
+.env
